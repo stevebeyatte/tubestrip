@@ -1,5 +1,5 @@
 {
-    "name": "acidjazz/tubestrip",
+    "name": "robinflyhigh/tubestrip",
     "description": "YouTube Crawler",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     "require": {
         "symfony/dom-crawler": "^5.1",
         "ext-json": "*",
-        "php": "^7.4",
+        "php": "^8.0",
         "illuminate/support": "7.*",
         "guzzlehttp/guzzle": "6.* || 7.*"
     },
